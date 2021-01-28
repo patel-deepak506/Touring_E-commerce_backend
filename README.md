@@ -15,7 +15,7 @@ Import Schema mysql -u <user_name> -p <database_name> < tshirtshop.sql
 
 To use this ecommerce backend You have to Install some important tools using command line : $ sudo apt-get install git $ sudo apt-get install nodejs Clone this app using the command:
 
-$ git clone https://github.com/patel-deepak506/E-Comerce_backend.git Steps to use this backend are or to run the Project are ):- $ cd e-commerce_backend/ $ npm init or $ sudo npm install (to install all the dependencies)
+$ git clone https://github.com/patel-deepak506/E-Comerce_backend Steps to use this backend are or to run the Project are ):- $ cd e-commerce_backend/ $ npm init or $ sudo npm install (to install all the dependencies)
 
 Note:- before running the project change sample.env to .env file in the root directory of the project and update the required variables.
 
